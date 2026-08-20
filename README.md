@@ -4,7 +4,7 @@ Finlytics is a web-based expense tracker designed to help users manage their per
 
 ## 🚀 Live Demo
 
-**[Open Finlytics](https://expencetracker56.infinityfree.me/)**
+**[Open Finlytics](https://finlyticexpenctracker.infinityfree.me/)**
 
 ## ✨ Features
 
@@ -32,7 +32,7 @@ Finlytics was built as a practical personal finance management application for t
 
 ## 🌐 Website
 
-https://expencetracker56.infinityfree.me/
+https://finlyticexpenctracker.infinityfree.me/
 
 ## 👨‍💻 Developer
 
